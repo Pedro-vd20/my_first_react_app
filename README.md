@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Running the project
+To start the server, run `npm run server`. On a separate terminal, run `npm start`.
+
+The app should now be running and can be accessed locally from your browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
